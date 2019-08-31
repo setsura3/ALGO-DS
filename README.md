@@ -12,7 +12,7 @@
 <p>4.All of these implementations will be using <bold>Python3</bold>Python3</p>
 <br>
 <h3>Data Structure</h3>
-<div col-mid-6><p><a href="">Array</a></p></div>
+<div col-mid-6><p><a href="array.py">Array</a></p></div>
 
 </body>
 </html>
