@@ -15,7 +15,7 @@
 <div col-mid-6><p><a href="array.py">Array</a></p>
 <p><a href="stack.py">Stack</a></p>  
 <p><a href="queue.py">Queue</a></p> 
-<p><a href="queue_loop_q.py">Loop Queue</a></p> 
+<p><a href="blob/master/queue_loop_q.py">Loop Queue</a></p> 
     </div>
 
 </body>
