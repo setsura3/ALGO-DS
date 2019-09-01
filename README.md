@@ -13,7 +13,8 @@
 <br>
 <h3>Data Structure</h3>
 <div col-mid-6><p><a href="array.py">Array</a></p>
-<p><a href="stack.py">Stack</a></p>    
+<p><a href="stack.py">Stack</a></p>  
+<p><a href="queue.py">Queue</a></p> 
     </div>
 
 </body>
